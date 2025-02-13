@@ -5,7 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>portifólio</title>
 
-    <link rel="stylesheet" href="css/styles.css />
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-image: url("imagens/logo.png");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+        
+        p {
+            border: 1px solid pink;
+        }
+
+        h1 {
+            background: violet;
+
+        }
+    
+    </style>
+
     
 </head>
 <body>
