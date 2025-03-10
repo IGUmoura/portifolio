@@ -27,12 +27,12 @@
     color: #fafafa;
 }
 
-#interface .cabecalho .menu {
+#interface .cabecalho .menu{
     display: flex;
     justify-content: space-between;
     width: 70%;
     margin: 0 auto;
-    padding: 1rem 0 ;
+    padding: 1rem 0;
 }
 
 #interface .cabecalho .menu .logo{
@@ -42,18 +42,18 @@
 
 #interface .cabecalho .menu .logo img{
     display: block;
-    width: 150px;
+    width: 100%;
 }
 
 #interface .cabecalho .menu ul{
-    display: flex  ;
+    display: flex;
     align-items: center;
-    list-style: none ;
+    list-style: none;
 }
 
 #interface .cabecalho .menu ul li{
-   display: block;
-   margin: 0 1rem; 
+    display: block;
+    margin: 0 1rem;
 }
 
 #interface .cabecalho .menu ul li a{
@@ -63,3 +63,4 @@
     padding: .5rem 1rem;
     text-decoration: none;
 }
+
