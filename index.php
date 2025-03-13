@@ -25,10 +25,10 @@
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Serviços</a></li>
-                <li><a href="#">Produtos</a></li>
                 <li><a href="#">Portifólio</a></li>
                 <li><a href="#">Sobre</a></li>
                 <li><a href="#">Contato</a></li>
+                <li><a href="#">Registro</a></li>
             </ul>
 
         </nav>
@@ -50,6 +50,59 @@
              
     </header>
 
+    <main id="corpo">
+        <section class="servicos">
+
+            <article class="servico">
+                <img src="imagens/service-design.svg" alt="Design">
+                <h3 class="title-servico">Desenvolvimento WEB</h3>
+                <p class="text-servico">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam veritatis culpa totam a, mollitia natus?</p>
+            </article>
+            <article class="servico">
+                <img src="imagens/service-hosting.svg" alt="Hosting">
+                <h3 class="title-servico">WEB Hosting</h3>
+                <p class="text-servico">Totam odit quidem mollitia officia animi corrupti, architecto similique at alias! Delectus incidunt corrupti odio?</p>
+            </article>
+            <article class="servico">
+                <img src="imagens/service-social.svg" alt="Social">
+                <h3 class="title-servico">Mídias Sociais</h3>
+                <p class="text-servico">Omnis accusantium nulla tempora doloremque, porro, reiciendis in sint accusamus aperiam incidunt saepe itaque nam?</p>
+            </article>
+            <article class="servico">
+                <img src="imagens/service-seo.svg" alt="Seo">
+                <h3 class="title-servico">Aplicação SEO</h3>
+                <p class="text-servico">Est, quo saepe ea voluptate nulla dolor optio assumenda ratione distinctio voluptatem rem illo ad!</p>
+            </article>
+            <article class="servico">
+                <img src="imagens/service-cloud.svg" alt="Cloud">
+                <h3 class="title-servico">Computação em Nuvem</h3>
+                <p class="text-servico">Ipsa cum molestiae vitae maxime provident molestias optio alias, adipisci ducimus delectus quibusdam recusandae odio.</p>
+            </article>
+            <article class="servico">
+                <img src="imagens/service-secure.svg" alt="Security">
+                <h3 class="title-servico">Segurança de Dados  </h3>
+                <p class="text-servico">Autem expedita quas, non enim eaque ducimus dolore doloremque provident sapiente magni accusantium ut natus.</p>
+            </article>
+
+        </section>
+
+
+
+
+        <section class="portifolio">
+
+
+        </section>
+
+
+        <section class="sobre">
+
+
+
+        </section>
+
+
+    </main>
 </div>
     
 </body>
