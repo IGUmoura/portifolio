@@ -112,6 +112,17 @@
 
             </section>
 
+            <section class="banner">
+
+                <hgroup class="container-texto" >
+                    <h4 class="title-banner">Saiba mais sobre nosso projeto</h4>
+
+                    <p class="txt-banner">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore veritatis, cupiditate fuga ipsam, qui aspernatur quo adipisci officiis repudiandae ullam laboriosam sint corrupti et obcaecati?</p>
+
+                    <button class="btn-banner">Saiba mais</button>
+                </hgroup>
+
+                
             <section class="sobre">
 
                 
