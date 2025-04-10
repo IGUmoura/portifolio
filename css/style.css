@@ -81,7 +81,7 @@
     display: block;
     font-family: Oswald;
     color: var(--branco-padrao) ;
-    font-size: 2rem;
+    font-size: 1.8rem;
     padding: .5rem 1rem;
     text-decoration: none;
 }
@@ -531,3 +531,4 @@
     color: var(--branco-padrao);
     font-size: .9rem;
 }
+
