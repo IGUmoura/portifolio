@@ -8,6 +8,12 @@
     <link rel="stylesheet" href="tools/fontawesome/css/all.css" />
     <link rel="stylesheet" href="css/style.css" />
 
+    <script src="tools/jquery/jquery.js"></script>
+
+    <script>
+        
+    </script>
+
 </head>
 <body>
 
@@ -30,7 +36,7 @@
                 <li><a href="area_restrita/"><i class="fas fa-unlock-alt"></i>Restrito</a></li>
             </ul>
 
-        </nav> 
+        </nav>
         
         <div class="titles"> <!-- ========================= -->
             <div class="container-titles">
@@ -55,7 +61,7 @@
 
     <main id="corpo">
 
-        <section class="servicos">
+        <section id="servicos" class="servicos">
 
             <article class="servico">
                 <img src="imagens/service-design.svg" alt="Design">
@@ -244,7 +250,7 @@
 
             </div>
 
-            <p class="txt-creditos">Igor Moura de Oliveira &copy; 2025</p>
+            <p class="txt-creditos">Igor Moura de Oiveira &copy; 2025</p>
 
         </div>
 
